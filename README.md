@@ -11,6 +11,4 @@ https://maps.gsi.go.jp/development/ichiran.html#dem
 https://github.com/shi-works/tile-gsi-dem
 
 ## Terrain-RGB形式の標高タイルについて
-
-`https://xs489works.xsrv.jp/raster-tiles/gsi/gsi-dem-terrain-rgb/{z}/{x}/{y}.png`
-
+`https://xs489works.xsrv.jp/raster-tiles/gsi/gsi-dem-terrain-rgb/{z}/{x}/{y}.png`(tileSize: 256px)

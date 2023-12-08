@@ -7,7 +7,7 @@
 標高タイル（基盤地図情報数値標高モデル）  
 https://maps.gsi.go.jp/development/ichiran.html#dem
 
-## 標高タイルの変換スクリプト
+## 標高タイルの変換スクリプトについて
 https://github.com/shi-works/tile-gsi-dem
 
 ## Terrain-RGB形式の標高タイルについて

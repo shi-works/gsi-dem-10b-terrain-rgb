@@ -1,5 +1,6 @@
 # gsi-dem-10b-terrain-rgb
 このリポジトリでは、国土地理院の標高タイルをMapLibre GL JSで利用可能なTerrain-RGB形式の標高タイルに変換したデータを公開しています。
+なお、本データの利用については、[国土地理院コンテンツ利用規約](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)に従うものとします。
 
 ## 標高タイルについて
 標高タイルは、DEM10B PNG形式の標高タイルを使用しています。

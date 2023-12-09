@@ -13,7 +13,7 @@ https://github.com/shi-works/tile-gsi-dem
 
 ## Terrain-RGB形式の標高タイル
 `https://xs489works.xsrv.jp/raster-tiles/gsi/gsi-dem-terrain-rgb/{z}/{x}/{y}.png`  
-(tileSize: 256px zoomLevel: 0～14)
+(tileSize: 256px zoomLevel: 0-14)
 
 ## 上記のTerrain-RGB形式の標高タイルを用いたデモサイト
 https://shi-works.github.io/gsi-dem-10b-terrain-rgb/
